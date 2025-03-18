@@ -22,7 +22,7 @@ INA Meter is an application for Flipper Zero that allows you to read I2C-connect
 - Once the settings are complete, press the BACK button to return to the Current Gauge Screen.
 - If the sensor is connected properly, the Current Gauge Screen will display the bus voltage and the current flowing through the shunt resistor.
 
-The application allows measured values to be saved to a CSV file on the SD card. A CSV file is automatically created when recording starts and is stored in the `/apps_data/ina_meter/logs` folder. Its name is derived from the date and time the recording begins.
+The application allows measured values to be saved to a CSV file on the SD card. A CSV file is automatically created when recording starts and is stored in the */apps_data/ina_meter/logs* folder. Its name is derived from the date and time the recording begins.
 
 ## Precision and Sampling Presets
 
